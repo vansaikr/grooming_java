@@ -1,7 +1,17 @@
 package com.sapient;
 
+import java.util.*;
+
 public class Boxing {
     public static void main(String[] args) {
+        ArrayList arrayList=new ArrayList();
+        Stack stack = new Stack();
+        Vector vector=new Vector();
+        LinkedList linkedList=new LinkedList();
+        LinkedHashMap linkedHashMap=new LinkedHashMap();
+        HashMap hashMap =new HashMap<>();
+        HashSet hashSet = new HashSet();
+        Queue queue=new PriorityQueue();
 
         // Creating an Integer Object with custom value say it be 10
         Integer i = new Integer(10);
