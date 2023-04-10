@@ -1,0 +1,6 @@
+
+J
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÇÂ¯
+@
+java:S1197"*Move the array designators [] to the type.(Ç–›ñ
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(è‘Îô8ª‰Á’ò0

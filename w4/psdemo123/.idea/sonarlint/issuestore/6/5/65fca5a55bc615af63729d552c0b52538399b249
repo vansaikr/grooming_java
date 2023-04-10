@@ -1,0 +1,12 @@
+
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(ûë¡•úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıß¡­
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ô§¿ç8Æ˜·ò0
+L
+java:S1874"/Remove this use of "setDate"; it is deprecated.(ôŒá‡8Ìò†·ò0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬Şı•8×‘„·ò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸ƒ¼ùÿÿÿÿ8–Ì·ò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†Ñüÿÿÿÿ8ış§·ò0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯õêò8Ò‘¹·ò0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„¼…Şÿÿÿÿÿ8Ò‘¹·ò0
