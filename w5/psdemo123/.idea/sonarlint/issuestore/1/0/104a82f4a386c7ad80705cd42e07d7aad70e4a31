@@ -1,0 +1,14 @@
+
+d
+java:S1192"IDefine a constant instead of duplicating this literal "value = " 5 times.(ñÀŒŸüÿÿÿÿ
+g
+java:S1192"LDefine a constant instead of duplicating this literal "hashcode = " 4 times.(Ÿ®Ýéüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñÀŒŸüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ®Ýéüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñÀŒŸüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ®Ýéüÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ñÀŒŸüÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ÿ®Ýéüÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(îÉ–»üÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(îÉ–»üÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ø„ÏÌøÿÿÿÿ
