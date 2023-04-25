@@ -1,0 +1,7 @@
+
+T
+java:S2168"9Remove this dangerous instance of double-checked locking.(¹‚ß¬ùÿÿÿÿ
+Y
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(ø¸¼
+^
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë

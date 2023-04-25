@@ -1,0 +1,13 @@
+package com.sapient.w5.behavioral.command;
+
+public class LightOnCommand implements Command{
+    Light light;
+    public LightOnCommand(Light light)
+    {
+        this.light = light;
+    }
+    public void execute()
+    {
+        light.on();
+    }
+}

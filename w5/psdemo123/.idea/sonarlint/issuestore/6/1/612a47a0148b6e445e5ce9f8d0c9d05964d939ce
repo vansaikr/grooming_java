@@ -1,0 +1,22 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(šÌÈ¬øÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "a" parameter(³–¸Ïøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³–¸Ïøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÛÝ²Ãþÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+O
+java:S1612<"9Replace this lambda with method reference 'Integer::sum'.(“ôË
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(¡µ¤½üÿÿÿÿ
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(†öä§
